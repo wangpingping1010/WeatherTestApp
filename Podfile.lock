@@ -1,0 +1,23 @@
+PODS:
+  - APTimeZones (1.1)
+
+DEPENDENCIES:
+  - APTimeZones (from `https://github.com/Alterplay/APTimeZones.git`, commit `9ffd147`, branch `master`)
+
+EXTERNAL SOURCES:
+  APTimeZones:
+    :branch: master
+    :commit: 9ffd147
+    :git: https://github.com/Alterplay/APTimeZones.git
+
+CHECKOUT OPTIONS:
+  APTimeZones:
+    :commit: 9ffd1473e76fdf15e9a78d39b9e3f8dfad0b0255
+    :git: https://github.com/Alterplay/APTimeZones.git
+
+SPEC CHECKSUMS:
+  APTimeZones: ddb9aca50fff41d6313eb29d86d37b1edf9d2942
+
+PODFILE CHECKSUM: 235ec4f80d68e14b2995ef22cba38adc1dc3be4f
+
+COCOAPODS: 1.6.1
